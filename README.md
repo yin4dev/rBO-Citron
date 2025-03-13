@@ -43,7 +43,7 @@ Welcome to **rBO-Citron**! This open-source project is designed for managing dat
 - **System Tools**:  
   - [R](https://www.r-project.org/)
   - [RStudio](https://www.rstudio.com/)
-  - 
+  
 ---
 
 ## Installation and Setup
