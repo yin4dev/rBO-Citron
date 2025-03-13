@@ -1,6 +1,6 @@
 
 # rBO-Citron
-A Shiny dashboard application for interactive data management and Bayesian optimization.
+A Shiny dashboard application for interactive **data management** and **Bayesian optimization**.
 
 (This app is part of the **WakaCitrus-Informatics** series. For other apps in the **WakaCitrus-Informatics** series, please visit:　https://github.com/yin4dev?tab=repositories)
 
