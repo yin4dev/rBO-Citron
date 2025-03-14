@@ -33,7 +33,7 @@ Welcome to **rBO-Citron v0.2**! This open‐source project is designed for manag
 
 ---
 
-## Updated Ponits
+## Updated Points
 - **Surrogate Model Selection**: **Gaussian Process** (default) or **Random Forest**
 - **One-Hot Encoding** for Categorical Variables
 - Several UI improvements
