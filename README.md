@@ -4,7 +4,7 @@
 # rBO-Citron v0.2.0
 A Shiny dashboard application for interactive **data management** and **Bayesian optimization**.
 
-*(This app is part of the **WakaCitrus-Informatics** series. For other apps in the series, please visit [my GitHub repositories](https://github.com/yin4dev?tab=repositories).)*
+*(This app is a part of the **WakaCitrus-Informatics** series. For other apps in the series, please visit [my GitHub repositories](https://github.com/yin4dev?tab=repositories).)*
 
 Welcome to **rBO-Citron v0.2**! This open‐source project is designed for managing datasets (via local SQLite or CSV uploads) and performing Bayesian optimization using surrogate models with advanced features. The application now features flexible surrogate model selection, robust one-hot encoding for categorical variables, advanced constraint management, enhanced interactive visualizations, and flexible prediction modes. Contributions, improvements, and customizations are welcome—feel free to fork and submit pull requests.
 
